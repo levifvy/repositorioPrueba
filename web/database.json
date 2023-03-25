@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "user": "John",
+      "task": "Complete project proposal",
+      "status": "In Progress",
+      "start_date": "2023-03-17",
+      "end_date": "2023-03-25"
+    },
+    {"id": 2,
+      "user": "Sarah",
+      "task": "Review budget report",
+      "status": "Completed",
+      "start_date": "2023-03-10",
+      "end_date": "2023-03-12"
+    },
+    {
+      "id": 3,
+      "user": "David",
+      "task": "Develop new feature",
+      "status": "Started",
+      "start_date": "2023-01-05",
+      "end_date": null
+    },
+    {
+      "id": 4,
+      "user": "Emily",
+      "task": "Write marketing campaign",
+      "status": "Done",
+      "start_date": "2023-03-20",
+      "end_date": "2023-03-30"
+    },
+    {
+      "id": 5,
+      "user": "Michael",
+      "task": "Present project to stakeholders",
+      "status": "Pending Approval",
+      "start_date": "2023-03-15",
+      "end_date": null
+    }
+  ]
